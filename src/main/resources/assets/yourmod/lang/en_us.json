@@ -1,1 +1,5 @@
-{}
+{
+  "item.yourmod.jetpack": "Jetpack",
+  "item.yourmod.blep": "Blep",
+  "block.yourmod.corruption": "Corruption"
+}
